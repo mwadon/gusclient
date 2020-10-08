@@ -1,5 +1,5 @@
 {
-    "name": "mwojtowicz/gusclient",
+    "name": "mwadon/gusclient",
     "description": "GUS companies database API client",
     "type": "library",
     "license": "MIT",
